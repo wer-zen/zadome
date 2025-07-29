@@ -8,6 +8,6 @@
 - Per ottenere moto vario si deve applicare una forza variabile.
 - Per ottenere moto uniformemente vario è necessario una forza costante.
 -
-- D
+- ## [DINAMICA.PRINCIPI]
 -
 -
