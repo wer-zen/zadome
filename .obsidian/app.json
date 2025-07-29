@@ -3,5 +3,6 @@
   "newFileFolderPath": "pages",
   "alwaysUpdateLinks": true,
   "showInlineTitle": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "showUnsupportedFiles": true
 }
