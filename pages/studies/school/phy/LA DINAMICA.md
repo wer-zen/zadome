@@ -10,4 +10,5 @@
 -
 - ## [DINAMICA.PRINCIPI]
 	- La dinamica è fondata attraverso la conoscenza dei tre principi della dinamica:
-		- wd
+		- Principio di [[Inerzia]]
+		- Principio di Azione De
