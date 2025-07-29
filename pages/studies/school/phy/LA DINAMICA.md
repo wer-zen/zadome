@@ -9,5 +9,5 @@
 - Per ottenere moto uniformemente vario è necessario una forza costante.
 -
 - ## [DINAMICA.PRINCIPI]
--
--
+	- La dinamica è fondata attraverso la conoscenza dei tre principi della dinamica:
+		- wd
