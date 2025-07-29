@@ -1,6 +1,6 @@
-{{date}} {{time}}
-
-tags: [[knowledge]] of [[history]]
-
----
-
+- {{date}} {{time}}
+  template:: history_template
+  
+  tags: [[knowledge]] of [[history]]
+  
+  ---
