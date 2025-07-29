@@ -13,3 +13,5 @@
 		- Principio di [Inerzia](Inertia)
 		- Principio di [Azione Delle Forze](Force and Acceleration)
 		- Principio di [Azione e Reazione](Action-Reaction)
+	- #### [DINAMICA.PRINCIPI.INERZIA]
+-
