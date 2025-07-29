@@ -16,4 +16,6 @@
 		  logseq.order-list-type:: number
 		- Principio di [Azione e Reazione](Action-Reaction)
 		  logseq.order-list-type:: number
-	- ---
+	- # ---
+	- #### [DINAMICA.PRINCIPI.INERZIA
+-
