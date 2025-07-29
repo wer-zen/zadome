@@ -1,0 +1,2 @@
+- {{date}} {{time}}
+- [[knowledge]] of [[myself]]
