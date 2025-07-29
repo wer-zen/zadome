@@ -11,6 +11,9 @@
 - ## [DINAMICA.PRINCIPI]
 	- La dinamica è fondata attraverso la conoscenza dei tre principi della dinamica:
 		- Principio di [Inerzia](Inertia)
+		  logseq.order-list-type:: number
 		- Principio di [Azione Delle Forze](Force and Acceleration)
+		  logseq.order-list-type:: number
 		- Principio di [Azione e Reazione](Action-Reaction)
-		-
+		  logseq.order-list-type:: number
+	- ---
