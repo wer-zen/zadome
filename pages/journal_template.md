@@ -1,2 +1,2 @@
-- {{date}} {{time}}
-- [[knowledge]] of [[myself]]
+- {{date}} {{time}} [[knowledge]] of [[myself]]
+  template:: journal_template
