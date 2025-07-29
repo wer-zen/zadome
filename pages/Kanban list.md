@@ -4,42 +4,29 @@ kanban-plugin: board
 
 ---
 
-## nixos
-
+- ## nixos
 - [ ] add matugen
 - [ ] make npm usable
-
-
-## quickshell
-
+- ## quickshell
 - [ ] Make the config usable
 - [ ] Add Workspaces
 - [ ] Add collapsed bar
 - [ ] Improve overall look
-
-
-## websites
-
+- ## websites
 - [ ] Learn JavaScript
 - [ ] Learn AstroJS framework
 - [ ] Learn how to use ShadCn
-
-
-## niriwm
-
+- ## niriwm
 - [ ] setup niri decently
 - [ ] Niri & Hyprland support
-
-
-## personality
-
+- ## personality
 - [ ] [[Make Logo]]
-
-
-
-
-%% kanban:settings
-```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,true]}
-```
-%%
+  
+  
+  
+  
+  %% kanban:settings
+  ```
+  {"kanban-plugin":"board","list-collapse":[false,false,false,false,true]}
+  ```
+  %%
