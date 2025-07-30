@@ -8,4 +8,5 @@
 - $$ I = F * t \space [N * m]$$ 
   $$ Q = m * \vec v \space [Kg * \frac{m}{s}]$$
 -
-- According
+- According to which in an isolated system, the total momentum is constant.
+  It also corresponds to the impulse force
