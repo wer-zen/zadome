@@ -5,5 +5,7 @@
 -
 - It would be interesting to affront, know, explain well the principle of conservation of the quantities of motion
 -
-- $$ I = F * t [N * m]$$
-  $$ Q = m * \vector V [Kg * \fraction]$$
+- $$ I = F * t \space [N * m]$$ 
+  $$ Q = m * \vec v \space [Kg * \frac{m}{s}]$$
+-
+-
