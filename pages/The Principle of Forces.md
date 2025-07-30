@@ -8,6 +8,8 @@
 - $$F=ma[kg*m/s^2][N]$$
 - In this formuula we highlight a cause (the force), an effect (the acceleration), and a resistance to motion.
   In this regard, let us clarify that the mass can participate in the motion and less.
-  For this reason, mass can be gravitational and inertial
+  For this reason, mass can be gravitational [^1] and inertial [^2]
 -
-- []
+- [^1]: When it doesn't participate in the motion
+- [^1]: When it doesn't participate in the motion
+-
