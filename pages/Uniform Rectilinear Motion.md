@@ -1,2 +1,3 @@
-- Tags: [[knowledge]] of [[physics]] and [[motion]] 
-  ---
+- Tags: [[knowledge]] of [[physics]] and [[motion]]
+- ---
+- A body moves with uniform
