@@ -1,3 +1,3 @@
 - Tags: [[knowledge]] of [[physics]]
   ---
-- > For
+- > For every action there is an equal or
