@@ -12,4 +12,4 @@ The space that a body travels in a certain period of time.
 	- Instant Velocity
 	- Constant Velocity
 -
--
+- ## Average Velocity
