@@ -1,6 +1,4 @@
-- 20-05-25 20:05
-  
-  Tags: [[knowledge]] of [[physics]]
+- Tags: [[knowledge]] of [[physics]]
   ---
   #+BEGIN_QUOTE
   The space that a body travels in a certain period of time.
