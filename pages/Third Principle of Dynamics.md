@@ -1,2 +1,3 @@
 - Tags: [[knowledge]] of [[physics]]
   ---
+- > For
