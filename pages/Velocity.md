@@ -6,7 +6,7 @@
   The space that a body travels in a certain period of time.
   #+END_QUOTE
   $$M/S = \Delta_{s} / \Delta_{t}$$
-- Such formula is generic and can be used to represent the velocity
+- Such formula is generic and can be used to represent the velocity along an entire path or in a stretch of path
 -
 - It can be studied in different ways while expressing the same meaning
 	- Average Velocity
