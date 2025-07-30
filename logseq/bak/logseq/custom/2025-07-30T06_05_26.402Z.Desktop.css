@@ -1,0 +1,10 @@
+* {
+  font-family: "ZedMono Nerd Font";
+}
+div.block-content-inner:has(b.pauze) {
+  background-color: var(--ls-quaternary-background-color);
+}
+b.pauze {
+  font-weight: 600;
+  font-size: 1.2rem;
+}
