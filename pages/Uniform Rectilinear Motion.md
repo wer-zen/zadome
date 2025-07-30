@@ -1,2 +1,2 @@
-- Tags: [[knowledge]] of [[physics]]
+- Tags: [[knowledge]] of [[physics]] and [[motion]] 
   ---
