@@ -1,6 +1,4 @@
-- 20-05-25 20:05
-  
-  Tags: [[knowledge]] of [[physics]]
+- Tags: [[knowledge]] of [[physics]]
   ---
 - >Una forza applicata ad un oggetto di massa $$m$$ imprime adesso una accelerazione direttamente proporzionale all aforza e dipende dalla massa.
 - In questa definizione, e per la prima volta nello studio del moto compare la massa, intesa come l'opposizione che la stessa massa esercita alla forza
