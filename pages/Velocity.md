@@ -9,4 +9,7 @@ The space that a body travels in a certain period of time.
 
 - It can be studied in different ways while expressing the same meaning
 	- Average Velocity
-	  Instant
+	- Instant Velocity
+	- Constant Velocity
+-
+-
