@@ -10,3 +10,4 @@
   In this regard, let us clarify that the mass can participate in the motion and less.
   For this reason, mass can be gravitational and inertial
 -
+- []
