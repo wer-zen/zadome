@@ -1,1 +1,3 @@
-- Una forza applicata ad un oggetto di massa $$m$$
+- Una forza applicata ad un oggetto di massa $$m$$ imprime adesso una accelerazione direttamente proporzionale all aforza e dipende dalla massa.
+-
+- In questa definizo
