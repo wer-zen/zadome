@@ -13,3 +13,4 @@ The space that a body travels in a certain period of time.
 	- Constant Velocity
 -
 - ## Average Velocity
+  It expresses the ratio
