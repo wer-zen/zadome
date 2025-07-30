@@ -1,1 +1,1 @@
--
+- Una forza applicata ad un oggetto di massa $$m$$
