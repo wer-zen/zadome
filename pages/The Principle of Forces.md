@@ -11,5 +11,4 @@
   For this reason, mass can be gravitational [^1] and inertial [^2]
 -
 - [^1]: When it doesn't participate in the motion
-- [^1]: When it doesn't participate in the motion
--
+  [^2]: When it does participate in the motion
