@@ -1,4 +1,5 @@
 - Tags: [[knowledge]] of [[physics]]
   ---
   > For every action there is an equal or contrary reaction
-- The effect connected wot
+- The effect connected with the impulse of force is called ``
+-
