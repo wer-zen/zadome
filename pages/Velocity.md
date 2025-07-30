@@ -16,4 +16,4 @@
   > It expresses the ratio between the total space and the total time used.
   
   $$V_{m}=T_{space}/T_{time}$$
-- Un tre
+-
