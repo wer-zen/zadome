@@ -7,4 +7,4 @@
 - In questa definizione, e per la prima volta nello studio del moto compare la massa, intesa come l'opposizione che la stessa massa esercita alla forza
 -
 - $$F=ma[kg*m/s^2][N]$$
--
+- In this formuula we highlight
