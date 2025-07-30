@@ -5,7 +5,7 @@
   #+BEGIN_QUOTE
   The space that a body travels in a certain period of time.
   #+END_QUOTE
--
+  $$M/S = \Delta_{s} / \Delta_{t}$$
 -
 - It can be studied in different ways while expressing the same meaning
 	- Average Velocity
