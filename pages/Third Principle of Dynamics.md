@@ -3,4 +3,4 @@
   > For every action there is an equal or contrary reaction
 - The effect connected with the impulse of force is called _Quantity of Motion_
 -
-- It would be interesting to
+- It would be interesting to affront, know, explain well the principle of conservation
