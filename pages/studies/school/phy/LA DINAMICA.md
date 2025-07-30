@@ -17,4 +17,4 @@
 		  logseq.order-list-type:: number
 - # ---
 - ### [DINAMICA.PRINCIPI.INERZIA]
-  Dice che un corpo persevera nel suo stato di quiete e di moto rettilineo uniforme fino a quando una forza esterna non interagisce e modifica tale stato. Non esistono le forze di inerzia.tttt
+	- Dice che un corpo persevera nel suo stato di quiete e di moto rettilineo uniforme fino a quando una forza esterna non interagisce e modifica tale stato. Non esistono le forze di inerzia.tttt
